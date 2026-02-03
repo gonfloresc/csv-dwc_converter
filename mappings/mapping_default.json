@@ -1,4 +1,24 @@
-# default mapping
 {
-  "fields": []
+  "fields": [
+    {
+      "source_column": "Evento_total",
+      "dwc_term": "occurrenceID"
+    },
+    {
+      "source_column": "Casa",
+      "dwc_term": "locationID"
+    },
+    {
+      "source_column": "DateTime",
+      "dwc_term": "eventDate"
+    },
+    {
+      "source_column": "Especie1",
+      "dwc_term": "scientificName"
+    },
+    {
+      "source_column": "Numero_Especies1",
+      "dwc_term": "individualCount"
+    }
+  ]
 }
