@@ -257,3 +257,10 @@ gcloud run services delete csv-dwc-converter --region us-central1
 * Error and warning reports
 * Simple web interface
 * Support for additional Darwin Core classes (Event, Location, MeasurementOrFact)
+
+---
+
+## License
+
+MIT License. See LICENSE.
+
